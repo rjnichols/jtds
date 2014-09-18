@@ -1,4 +1,7 @@
 *.class
+dist/
+build/
+target/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -13,3 +16,4 @@ hs_err_pid*
 
 # Mac desktop service store files
 .DS_Store
+/nb/nbproject/private/
